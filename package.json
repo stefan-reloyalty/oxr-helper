@@ -1,0 +1,20 @@
+{
+  "name": "oxr-helper",
+  "version": "1.0.0",
+  "description": "A helper module for loading currency exchamnge rates from openexchangerates.org",
+  "main": "oxr.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefan-reloyalty/oxr-helper.git"
+  },
+  "keywords": ["money", "exchange", "rate", "rates", "realtime", "currency", "api", "conversion"],
+  "author": "Stefan Stefanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefan-reloyalty/oxr-helper/issues"
+  },
+  "homepage": "https://github.com/stefan-reloyalty/oxr-helper"
+}
